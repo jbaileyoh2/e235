@@ -1,5 +1,5 @@
-# Lego Vehicle
-  -Jordan Bailey
+# Lego Vehicle 
+#Jordan Bailey
 
 _**Step 1.**_
 
