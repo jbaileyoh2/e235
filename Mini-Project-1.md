@@ -5,7 +5,7 @@ _**Step 1.**_
 
 -Take the _8x16_ studded green plate to begin.
 
-**Step 2.**_
+_**Step 2.**_
 
 -Grab the _2x8_ studded black and tan bricks and place them on the **very ends** of the green plate.
 
