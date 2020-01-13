@@ -1,7 +1,7 @@
 # Lego Vehicle Instructions
 # Jordan Bailey
 
-_**Step 1.**_
+## _**Step 1.**_
 
 -Take the _8x16_ studded green plate to begin.
 
