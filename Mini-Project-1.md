@@ -1,4 +1,4 @@
-# Lego Vehicle 
+# Lego Vehicle Instructions
 # Jordan Bailey
 
 _**Step 1.**_
