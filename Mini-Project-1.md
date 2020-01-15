@@ -41,4 +41,4 @@ _**Step 10.**_
 
 -Use the **4 wheel pieces** and place them **under** the studded green plate at the **very corners** of the plate.
 
-# Finished
+# You Are Finished!
